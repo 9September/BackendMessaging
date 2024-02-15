@@ -1,0 +1,4 @@
+name: BackendMessaging
+version: '${project.version}'
+main: com.yd.backendmessaging.BackendMessaging
+api-version: '1.20'
